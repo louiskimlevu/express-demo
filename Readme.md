@@ -1,5 +1,8 @@
 # Description
 Architecture of an Express application made of 3 APIs, /users, /session, /messages.
+# Start the server
+npm install
+npm start
 
 # APIs
 GET /users
@@ -9,7 +12,6 @@ GET /messages
 GET /messages/#id
 POST /messages/#id headers => 'Content-Type:application/json', body => json format
 DELETE /messages/#id
-
 
 # How to create a new message
 
