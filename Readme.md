@@ -1,5 +1,8 @@
 # Description
 Architecture of an Express application made of 3 APIs, /users, /session, /messages.
+The code is based on an aritcle found here:
+https://www.robinwieruch.de/node-express-server-rest-api
+
 # Start the server
 npm install
 npm start
